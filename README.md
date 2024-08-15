@@ -26,9 +26,17 @@ Data Cleaning and Transformation Project
 
   
 -Empty cells
+
+
 -Incorrect data types
+
+
 -Inconsistent values
+
+
 -Extra line breaks
+
+
 -Duplicate values    
   
 
