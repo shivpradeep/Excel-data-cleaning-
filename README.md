@@ -1,11 +1,25 @@
+
 Data Cleaning and Transformation Project
+
+
+
   Introduction:-
+  
 
   This project aimed to clean and transform an Excel dataset to prepare it for analysis. The data contained various errors such as empty cells, incorrect data types, and inconsistent values. This project employed various Excel functions and Power Query to address these issues.
 
+
+  
+
   Dataset Description:-
+
+  
   Data Type: [Microsoft Excel Worksheet (.xlsx)]
+  
+  
   Data Size: [Number of rows - 16 and columns in the data- 13]
+
+
 
   Key Challenges in the Data:-
   -Empty cells
